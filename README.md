@@ -80,6 +80,9 @@ You can access the data dictionary which describes the meaning of these variable
 ## Acknowledgements
 Give credit here.
 - Geeksforgeeks
+- Upgrad EDA lectures
+- Python for data Analysis - By Wes McKinney
+- Data analysis using python - Udemy
 
 
 ## Contact
