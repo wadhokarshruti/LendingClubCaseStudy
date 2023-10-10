@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+> Understand the factors which Influence loan Charged Off for a financial company.
 
 
 ## Table of Contents
@@ -61,7 +61,7 @@ You can access the data dictionary which describes the meaning of these variable
 - People who thought to repay loan by 36 months defaulted more than the ones who took it for 60 months
   ![image](https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/b331f6b8-fcdc-43c4-8812-2b7a9f767f2f)
 
-- People who were on rent seems to have defaulted the most while those who owned home were comparatively less in %
+- People who were on rent seems to have defaulted the most while those who owned home were comparatively less in % .
   ![image](https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/184151a6-927d-4d1c-8f96-ee712993db85)
 
 - Loan seekers, whose purpose was det consolidation defaulted to the max
@@ -74,16 +74,12 @@ You can access the data dictionary which describes the meaning of these variable
   ![image](https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/cd5024c2-91a9-40ce-b0b2-e41d89167f8e)
 
 ## Technologies Used
-- pandas
-- klib
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- pandas 1.5.3
+- klib 1.1.2
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Geeksforgeeks
 
 
 ## Contact
