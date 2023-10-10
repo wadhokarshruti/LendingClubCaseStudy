@@ -83,7 +83,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@wadhokarshruti - feel free to contact me!
+Created by [@wadhokarshruti] - feel free to contact me!
 
 
 <!-- Optional -->
