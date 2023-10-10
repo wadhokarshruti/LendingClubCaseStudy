@@ -73,9 +73,10 @@ You can access the data dictionary which describes the meaning of these variable
 - Applicants’ probability of defaulting is high if he/she is from California state
   ![image](https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/cd5024c2-91a9-40ce-b0b2-e41d89167f8e)
 
-## Technologies Used
+## Technologies|libraries|languages Used
 - pandas 1.5.3
 - klib 1.1.2
+- Python 3
 
 ## Acknowledgements
 Give credit here.
