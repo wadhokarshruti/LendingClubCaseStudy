@@ -63,6 +63,7 @@ You can access the data dictionary which describes the meaning of these variable
   <img width="529" alt="image" src="https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/c7de5e0e-452a-4359-a83c-1f24d7894851">
 
 - People who repay loan by 60 months defaulted more than the ones who took it for 36 months.
+  
   <img width="529" alt="image" src="https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/9f8fb22e-1abe-4bb1-a991-0145de466789">
 
 - People Who Do Small Business Defaults More . Banks Should validate people of such Business More and Decide Accordingly
@@ -74,6 +75,7 @@ You can access the data dictionary which describes the meaning of these variable
   <img width="529" alt="image" src="https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/dfad33e4-bb16-447d-9423-aa985f350a37">
 
 - As Installment Increases , Default Increases
+  
   <img width="529" alt="image" src="https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/8a3e3e4e-9fa2-48b4-ba92-989796216309">
 
 
