@@ -1,4 +1,4 @@
-# Lending Club Case Study
+![image](https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/5d7a0fac-50e8-4a14-a386-688f42b8e4a6)# Lending Club Case Study
 > Understand the factors which Influence loan Charged Off for a financial company.
 
 
@@ -7,7 +7,7 @@
 * [Business Understanding](#business-understanding)
 * [Business Objectives](#business-objectives)
 * [Dataset](#dataset) 
-* [Technologies Used](#technologies-used)
+* [Technologies|libraries|languages Used](#technologies|libraries|languages-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -58,25 +58,30 @@ You can access the data dictionary which describes the meaning of these variable
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- People who thought to repay loan by 36 months defaulted more than the ones who took it for 60 months
-  ![image](https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/b331f6b8-fcdc-43c4-8812-2b7a9f767f2f)
+- As Grades Going from A to G , Charged Off Increases.  GRADE G ARE MORE DEFAULTING. GRADES CATEGORIES Loan based on SAFE level to LEND . A Level being SAFER . G LEVEL WORST
 
-- People who were on rent seems to have defaulted the most while those who owned home were comparatively less in % .
-  ![image](https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/184151a6-927d-4d1c-8f96-ee712993db85)
+  <img width="529" alt="image" src="https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/c7de5e0e-452a-4359-a83c-1f24d7894851">
 
-- Loan seekers, whose purpose was det consolidation defaulted to the max
-  ![image](https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/b8bd3b1f-3f2e-4833-abff-e19a90c80e9a)
+- People who repay loan by 60 months defaulted more than the ones who took it for 36 months.
+  <img width="529" alt="image" src="https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/9f8fb22e-1abe-4bb1-a991-0145de466789">
 
-- From Histogram we can see max people who took loan of amount ranging from 5k-10k charged off
-  ![image](https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/67f2e231-c662-449c-a8ce-e615e8a52235)
+- People Who Do Small Business Defaults More . Banks Should validate people of such Business More and Decide Accordingly
 
-- Applicants’ probability of defaulting is high if he/she is from California state
-  ![image](https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/cd5024c2-91a9-40ce-b0b2-e41d89167f8e)
+  <img width="529" alt="image" src="https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/0e3d0b7f-c909-4e93-99af-f84c29c1d151">
+
+- ApplicaNT from ‘NE’ State Are Defaulting More.
+
+  <img width="529" alt="image" src="https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/dfad33e4-bb16-447d-9423-aa985f350a37">
+
+- As Installment Increases , Default Increases
+  <img width="529" alt="image" src="https://github.com/wadhokarshruti/LendingClubCaseStudy/assets/16097864/8a3e3e4e-9fa2-48b4-ba92-989796216309">
+
 
 ## Technologies|libraries|languages Used
 - pandas 1.5.3
 - klib 1.1.2
 - Python 3
+- seborn
 
 ## Acknowledgements
 Give credit here.
